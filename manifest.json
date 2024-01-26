@@ -6,7 +6,6 @@
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#d004db",
-  "prefer_related_applications": false,
   "scope": "/",
   "lang":"es-MX",
   "icons": [
@@ -61,4 +60,5 @@
       "type": "image/png"
     }
   ]
+  "prefer_related_applications": false
 }
